@@ -3,6 +3,7 @@
 import { Book, StickyNote, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
+import { useEffect } from "react";
 
 export default function Home() {
 
